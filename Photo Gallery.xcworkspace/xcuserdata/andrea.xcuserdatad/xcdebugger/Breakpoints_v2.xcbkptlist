@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photo GalleryTests/PhotoListViewModelTests.swift"
+            timestampString = "541434008.585727"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photo_GalleryTests.PhotoListViewModelTests.__deallocating_deinit"
+                  moduleName = "Photo GalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Downloads/Photo%20Gallery/Photo%20GalleryTests/PhotoListViewModelTests.swift"
+                  timestampString = "541433736.6241111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photo_GalleryTests.PhotoListViewModelTests.__allocating_init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; Photo_GalleryTests.PhotoListViewModelTests"
+                  moduleName = "Photo GalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Downloads/Photo%20Gallery/Photo%20GalleryTests/PhotoListViewModelTests.swift"
+                  timestampString = "541433736.628111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photo_GalleryTests.PhotoListViewModelTests.init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; Photo_GalleryTests.PhotoListViewModelTests"
+                  moduleName = "Photo GalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Downloads/Photo%20Gallery/Photo%20GalleryTests/PhotoListViewModelTests.swift"
+                  timestampString = "541433736.630728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photo_GalleryTests.PhotoListViewModelTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; Photo_GalleryTests.PhotoListViewModelTests"
+                  moduleName = "Photo GalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Downloads/Photo%20Gallery/Photo%20GalleryTests/PhotoListViewModelTests.swift"
+                  timestampString = "541433736.6332361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photo_GalleryTests.PhotoListViewModelTests.init(selector: ObjectiveC.Selector) -&gt; Photo_GalleryTests.PhotoListViewModelTests"
+                  moduleName = "Photo GalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Downloads/Photo%20Gallery/Photo%20GalleryTests/PhotoListViewModelTests.swift"
+                  timestampString = "541433736.635712"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photo_GalleryTests.PhotoListViewModelTests.__allocating_init() -&gt; Photo_GalleryTests.PhotoListViewModelTests"
+                  moduleName = "Photo GalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Downloads/Photo%20Gallery/Photo%20GalleryTests/PhotoListViewModelTests.swift"
+                  timestampString = "541433736.638943"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Photo_GalleryTests.PhotoListViewModelTests.init() -&gt; Photo_GalleryTests.PhotoListViewModelTests"
+                  moduleName = "Photo GalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrea/Downloads/Photo%20Gallery/Photo%20GalleryTests/PhotoListViewModelTests.swift"
+                  timestampString = "541433736.642736"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
