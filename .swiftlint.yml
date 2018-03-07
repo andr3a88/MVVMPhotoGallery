@@ -34,7 +34,7 @@ opt_in_rules:
     - vertical_parameter_alignment_on_call
 
 included:
-    - ./Photo Gallery
+    - ./PhotoGallery
 
 excluded:
     - Carthage

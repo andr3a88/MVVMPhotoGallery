@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9141C5E01592190187A9F3DB6D7F1C17"
-               BuildableName = "Pods_Photo_Gallery.framework"
-               BlueprintName = "Pods-Photo Gallery"
+               BlueprintIdentifier = "22D17F3AEB49D3918CA10DDF9E9C22F0"
+               BuildableName = "Pods_PhotoGalleryUITests.framework"
+               BlueprintName = "Pods-PhotoGalleryUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9141C5E01592190187A9F3DB6D7F1C17"
-            BuildableName = "Pods_Photo_Gallery.framework"
-            BlueprintName = "Pods-Photo Gallery"
+            BlueprintIdentifier = "22D17F3AEB49D3918CA10DDF9E9C22F0"
+            BuildableName = "Pods_PhotoGalleryUITests.framework"
+            BlueprintName = "Pods-PhotoGalleryUITests"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

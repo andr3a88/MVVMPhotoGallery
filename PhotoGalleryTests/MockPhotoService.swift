@@ -7,7 +7,7 @@
 //
 
 import Foundation
-@testable import Photo_Gallery
+@testable import PhotoGallery
 
 class MockPhotoService: PhotoServiceProtocol {
 

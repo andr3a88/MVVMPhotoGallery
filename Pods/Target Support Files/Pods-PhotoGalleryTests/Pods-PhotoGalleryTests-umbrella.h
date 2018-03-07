@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_Photo_GalleryTestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_Photo_GalleryTestsVersionString[];
+FOUNDATION_EXPORT double Pods_PhotoGalleryTestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_PhotoGalleryTestsVersionString[];
 

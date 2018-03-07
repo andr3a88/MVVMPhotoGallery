@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>PhotoGallery.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>65CB0B52204571E9002C2D86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>65CB0B66204571E9002C2D86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>65CB0B71204571E9002C2D86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

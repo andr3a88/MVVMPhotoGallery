@@ -4,21 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-Photo Gallery.xcscheme</key>
+		<key>Pods-PhotoGallery.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Pods-Photo GalleryTests.xcscheme</key>
+		<key>Pods-PhotoGalleryTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-Photo GalleryUITests.xcscheme</key>
+		<key>Pods-PhotoGalleryUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

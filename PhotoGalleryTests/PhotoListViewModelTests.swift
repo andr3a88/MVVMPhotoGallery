@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import Photo_Gallery
+@testable import PhotoGallery
 
 // We used a MockAPIService to check:
 //

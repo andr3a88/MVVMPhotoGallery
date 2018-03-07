@@ -24,9 +24,6 @@
 		65CB0B8C204573BE002C2D86 /* PhotoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CB0B8B204573BE002C2D86 /* PhotoService.swift */; };
 		65CB0B9020457439002C2D86 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 65CB0B8F20457439002C2D86 /* data.json */; };
 		65CB0B93204574B9002C2D86 /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CB0B92204574B9002C2D86 /* PhotoDetailViewController.swift */; };
-		698DAFFE4E4A199EF275966B /* Pods_Photo_Gallery.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 096B4A6388BB794D53C15CD4 /* Pods_Photo_Gallery.framework */; };
-		96C9434BB07713C8E6611B86 /* Pods_Photo_GalleryTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9F1C7B2A7C54EA5BEBB1990 /* Pods_Photo_GalleryTests.framework */; };
-		B071DD8D152660C9FDCE7547 /* Pods_Photo_GalleryUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFB9379F2307CF2E139B4727 /* Pods_Photo_GalleryUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,11 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		096B4A6388BB794D53C15CD4 /* Pods_Photo_Gallery.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Photo_Gallery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D5AA36E566ED275601D81C6 /* Pods-Photo GalleryUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photo GalleryUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Photo GalleryUITests/Pods-Photo GalleryUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		2BE1BB4B2F8C8AC9737F0642 /* Pods-Photo GalleryTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photo GalleryTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Photo GalleryTests/Pods-Photo GalleryTests.debug.xcconfig"; sourceTree = "<group>"; };
-		2FE748274548EC7E99F8E9B2 /* Pods-Photo GalleryTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photo GalleryTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Photo GalleryTests/Pods-Photo GalleryTests.release.xcconfig"; sourceTree = "<group>"; };
-		618A40F20552643DE61F8144 /* Pods-Photo Gallery.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photo Gallery.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Photo Gallery/Pods-Photo Gallery.debug.xcconfig"; sourceTree = "<group>"; };
+		19D83160E253DB75614E3248 /* Pods-PhotoGalleryUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoGalleryUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoGalleryUITests/Pods-PhotoGalleryUITests.release.xcconfig"; sourceTree = "<group>"; };
+		1B1622E006ED96BA8EFC053F /* Pods-PhotoGalleryTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoGalleryTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoGalleryTests/Pods-PhotoGalleryTests.release.xcconfig"; sourceTree = "<group>"; };
 		657C19402045993200ECCFDB /* .swiftlint.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .swiftlint.yml; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		657C194220459B2A00ECCFDB /* MockPhotoService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockPhotoService.swift; sourceTree = "<group>"; };
 		657C19442045A15900ECCFDB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -76,10 +70,10 @@
 		65CB0B8B204573BE002C2D86 /* PhotoService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoService.swift; sourceTree = "<group>"; };
 		65CB0B8F20457439002C2D86 /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		65CB0B92204574B9002C2D86 /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
-		6AE4BA1538E0B1EBED346FCD /* Pods-Photo Gallery.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photo Gallery.release.xcconfig"; path = "Pods/Target Support Files/Pods-Photo Gallery/Pods-Photo Gallery.release.xcconfig"; sourceTree = "<group>"; };
-		A9F1C7B2A7C54EA5BEBB1990 /* Pods_Photo_GalleryTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Photo_GalleryTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CDE0785622FDED0846A76BC4 /* Pods-Photo GalleryUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Photo GalleryUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Photo GalleryUITests/Pods-Photo GalleryUITests.release.xcconfig"; sourceTree = "<group>"; };
-		DFB9379F2307CF2E139B4727 /* Pods_Photo_GalleryUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Photo_GalleryUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		92B727F77644DBB16EE41698 /* Pods-PhotoGallery.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoGallery.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoGallery/Pods-PhotoGallery.release.xcconfig"; sourceTree = "<group>"; };
+		A6B47493148760988981E184 /* Pods-PhotoGalleryUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoGalleryUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoGalleryUITests/Pods-PhotoGalleryUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		CBB691C71314A227BC0F3420 /* Pods-PhotoGallery.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoGallery.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoGallery/Pods-PhotoGallery.debug.xcconfig"; sourceTree = "<group>"; };
+		CEE8234B7E4A065272EF4995 /* Pods-PhotoGalleryTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoGalleryTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoGalleryTests/Pods-PhotoGalleryTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +81,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				698DAFFE4E4A199EF275966B /* Pods_Photo_Gallery.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -95,7 +88,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96C9434BB07713C8E6611B86 /* Pods_Photo_GalleryTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,7 +95,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B071DD8D152660C9FDCE7547 /* Pods_Photo_GalleryUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -124,9 +115,9 @@
 			children = (
 				657C19442045A15900ECCFDB /* README.md */,
 				657C19402045993200ECCFDB /* .swiftlint.yml */,
-				65CB0B55204571E9002C2D86 /* Photo Gallery */,
-				65CB0B6A204571E9002C2D86 /* Photo GalleryTests */,
-				65CB0B75204571E9002C2D86 /* Photo GalleryUITests */,
+				65CB0B55204571E9002C2D86 /* PhotoGallery */,
+				65CB0B6A204571E9002C2D86 /* PhotoGalleryTests */,
+				65CB0B75204571E9002C2D86 /* PhotoGalleryUITests */,
 				65CB0B54204571E9002C2D86 /* Products */,
 				85434241CE854A76F1B510D2 /* Pods */,
 				934306C062AD6859F8471E14 /* Frameworks */,
@@ -143,7 +134,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		65CB0B55204571E9002C2D86 /* Photo Gallery */ = {
+		65CB0B55204571E9002C2D86 /* PhotoGallery */ = {
 			isa = PBXGroup;
 			children = (
 				65CB0B56204571E9002C2D86 /* AppDelegate.swift */,
@@ -157,26 +148,26 @@
 				65CB0B5D204571E9002C2D86 /* Assets.xcassets */,
 				65CB0B62204571E9002C2D86 /* Info.plist */,
 			);
-			path = "Photo Gallery";
+			path = PhotoGallery;
 			sourceTree = "<group>";
 		};
-		65CB0B6A204571E9002C2D86 /* Photo GalleryTests */ = {
+		65CB0B6A204571E9002C2D86 /* PhotoGalleryTests */ = {
 			isa = PBXGroup;
 			children = (
 				65CB0B6B204571E9002C2D86 /* PhotoListViewModelTests.swift */,
 				657C194220459B2A00ECCFDB /* MockPhotoService.swift */,
 				65CB0B6D204571E9002C2D86 /* Info.plist */,
 			);
-			path = "Photo GalleryTests";
+			path = PhotoGalleryTests;
 			sourceTree = "<group>";
 		};
-		65CB0B75204571E9002C2D86 /* Photo GalleryUITests */ = {
+		65CB0B75204571E9002C2D86 /* PhotoGalleryUITests */ = {
 			isa = PBXGroup;
 			children = (
 				65CB0B76204571E9002C2D86 /* Photo_GalleryUITests.swift */,
 				65CB0B78204571E9002C2D86 /* Info.plist */,
 			);
-			path = "Photo GalleryUITests";
+			path = PhotoGalleryUITests;
 			sourceTree = "<group>";
 		};
 		65CB0B842045724C002C2D86 /* PhotoList */ = {
@@ -217,12 +208,12 @@
 		85434241CE854A76F1B510D2 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				618A40F20552643DE61F8144 /* Pods-Photo Gallery.debug.xcconfig */,
-				6AE4BA1538E0B1EBED346FCD /* Pods-Photo Gallery.release.xcconfig */,
-				2BE1BB4B2F8C8AC9737F0642 /* Pods-Photo GalleryTests.debug.xcconfig */,
-				2FE748274548EC7E99F8E9B2 /* Pods-Photo GalleryTests.release.xcconfig */,
-				1D5AA36E566ED275601D81C6 /* Pods-Photo GalleryUITests.debug.xcconfig */,
-				CDE0785622FDED0846A76BC4 /* Pods-Photo GalleryUITests.release.xcconfig */,
+				CBB691C71314A227BC0F3420 /* Pods-PhotoGallery.debug.xcconfig */,
+				92B727F77644DBB16EE41698 /* Pods-PhotoGallery.release.xcconfig */,
+				CEE8234B7E4A065272EF4995 /* Pods-PhotoGalleryTests.debug.xcconfig */,
+				1B1622E006ED96BA8EFC053F /* Pods-PhotoGalleryTests.release.xcconfig */,
+				A6B47493148760988981E184 /* Pods-PhotoGalleryUITests.debug.xcconfig */,
+				19D83160E253DB75614E3248 /* Pods-PhotoGalleryUITests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -230,9 +221,6 @@
 		934306C062AD6859F8471E14 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				096B4A6388BB794D53C15CD4 /* Pods_Photo_Gallery.framework */,
-				A9F1C7B2A7C54EA5BEBB1990 /* Pods_Photo_GalleryTests.framework */,
-				DFB9379F2307CF2E139B4727 /* Pods_Photo_GalleryUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -390,7 +378,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Photo Gallery-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-PhotoGallery-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -409,7 +397,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Photo GalleryUITests/Pods-Photo GalleryUITests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PhotoGalleryUITests/Pods-PhotoGalleryUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		377AAABF79E80A8C8EA7562C /* [CP] Copy Pods Resources */ = {
@@ -424,7 +412,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Photo GalleryTests/Pods-Photo GalleryTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PhotoGalleryTests/Pods-PhotoGalleryTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		3E0E7682790270F65196498E /* [CP] Embed Pods Frameworks */ = {
@@ -439,7 +427,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Photo GalleryTests/Pods-Photo GalleryTests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PhotoGalleryTests/Pods-PhotoGalleryTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		48B99CD2D6BAC78E2C49CF3D /* [CP] Check Pods Manifest.lock */ = {
@@ -453,7 +441,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Photo GalleryTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-PhotoGalleryTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -472,7 +460,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Photo Gallery/Pods-Photo Gallery-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PhotoGallery/Pods-PhotoGallery-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		65B0B3ED204576EC0029CE8A /* SwitLint */ = {
@@ -495,7 +483,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Photo Gallery/Pods-Photo Gallery-frameworks.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-PhotoGallery/Pods-PhotoGallery-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -504,7 +492,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Photo Gallery/Pods-Photo Gallery-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PhotoGallery/Pods-PhotoGallery-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		86BFDD67670DB6D7069D63D2 /* [CP] Check Pods Manifest.lock */ = {
@@ -518,7 +506,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Photo GalleryUITests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-PhotoGalleryUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -537,7 +525,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Photo GalleryUITests/Pods-Photo GalleryUITests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PhotoGalleryUITests/Pods-PhotoGalleryUITests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -720,12 +708,12 @@
 		};
 		65CB0B7C204571E9002C2D86 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 618A40F20552643DE61F8144 /* Pods-Photo Gallery.debug.xcconfig */;
+			baseConfigurationReference = CBB691C71314A227BC0F3420 /* Pods-PhotoGallery.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82PA648THA;
-				INFOPLIST_FILE = "Photo Gallery/Info.plist";
+				INFOPLIST_FILE = PhotoGallery/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.as.PhotoGallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -736,12 +724,12 @@
 		};
 		65CB0B7D204571E9002C2D86 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6AE4BA1538E0B1EBED346FCD /* Pods-Photo Gallery.release.xcconfig */;
+			baseConfigurationReference = 92B727F77644DBB16EE41698 /* Pods-PhotoGallery.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82PA648THA;
-				INFOPLIST_FILE = "Photo Gallery/Info.plist";
+				INFOPLIST_FILE = PhotoGallery/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.as.PhotoGallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -752,13 +740,13 @@
 		};
 		65CB0B7F204571E9002C2D86 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2BE1BB4B2F8C8AC9737F0642 /* Pods-Photo GalleryTests.debug.xcconfig */;
+			baseConfigurationReference = CEE8234B7E4A065272EF4995 /* Pods-PhotoGalleryTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82PA648THA;
-				INFOPLIST_FILE = "Photo GalleryTests/Info.plist";
+				INFOPLIST_FILE = PhotoGalleryTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.as.Photo-GalleryTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -770,13 +758,13 @@
 		};
 		65CB0B80204571E9002C2D86 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2FE748274548EC7E99F8E9B2 /* Pods-Photo GalleryTests.release.xcconfig */;
+			baseConfigurationReference = 1B1622E006ED96BA8EFC053F /* Pods-PhotoGalleryTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82PA648THA;
-				INFOPLIST_FILE = "Photo GalleryTests/Info.plist";
+				INFOPLIST_FILE = PhotoGalleryTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.as.Photo-GalleryTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -788,35 +776,35 @@
 		};
 		65CB0B82204571E9002C2D86 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1D5AA36E566ED275601D81C6 /* Pods-Photo GalleryUITests.debug.xcconfig */;
+			baseConfigurationReference = A6B47493148760988981E184 /* Pods-PhotoGalleryUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82PA648THA;
-				INFOPLIST_FILE = "Photo GalleryUITests/Info.plist";
+				INFOPLIST_FILE = PhotoGalleryUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.as.Photo-GalleryUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Photo Gallery";
+				TEST_TARGET_NAME = PhotoGallery;
 			};
 			name = Debug;
 		};
 		65CB0B83204571E9002C2D86 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CDE0785622FDED0846A76BC4 /* Pods-Photo GalleryUITests.release.xcconfig */;
+			baseConfigurationReference = 19D83160E253DB75614E3248 /* Pods-PhotoGalleryUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82PA648THA;
-				INFOPLIST_FILE = "Photo GalleryUITests/Info.plist";
+				INFOPLIST_FILE = PhotoGalleryUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.as.Photo-GalleryUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Photo Gallery";
+				TEST_TARGET_NAME = PhotoGallery;
 			};
 			name = Release;
 		};
