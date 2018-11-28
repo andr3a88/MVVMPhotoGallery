@@ -35,7 +35,7 @@ class PhotoListViewController: UIViewController {
         self.navigationItem.title = "500px"
 
         tableView.estimatedRowHeight = 200
-        tableView.rowHeight = UITableViewAutomaticDimension
+        tableView.rowHeight = UITableView.automaticDimension
         tableView.delegate = self
         tableView.dataSource = self
     }
